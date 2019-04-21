@@ -23,4 +23,6 @@
 hs_err_pid*
 .idea/
 *.iml
-/zookeeper-start/target/
+/zookeeper-start/target/*
+/imooc_code/.idea/*
+**/target/*
